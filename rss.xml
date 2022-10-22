@@ -18,34 +18,19 @@
             <link>http://example.com/2022/10/22/My%20new%20post/</link>
             <category term="自我介绍" scheme="http://example.com/tags/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/" />
             <pubDate>Sat, 22 Oct 2022 23:46:16 +0800</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;写在前面&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#写在前面&#34;&gt;#&lt;/a&gt; 写在前面&lt;/h2&gt;
+            <description><![CDATA[ &lt;h2 id=&#34;自我介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#自我介绍&#34;&gt;#&lt;/a&gt; 自我介绍&lt;/h2&gt;
 &lt;hr /&gt;
 &lt;ul&gt;
-&lt;li&gt;用 &lt;code&gt;Markdown&lt;/code&gt;  写博客一年多了，最开始是用富文本写，后来发现 &lt;code&gt;Markdown&lt;/code&gt;  更适合我，而且 &lt;code&gt;CSDN&lt;/code&gt;  提供了导入导出的功能，图片可以云存储，所以导出了博文在本地也可以直接看，尤其是笔记类型很方便。所以这里总结一下自己常用模板和小伙伴们分享下 &amp;lt;font color=&amp;quot;#C0C4CC&amp;quot;&amp;gt;[这里写一些为啥要整理这部分笔记，整理这部分笔记的前因后果]&lt;/li&gt;
-&lt;li&gt;笔记主要是关于自己使用 &lt;code&gt;Morkdown&lt;/code&gt;  的一些 &lt;code&gt;常用模板&lt;/code&gt; 的 &lt;code&gt;版式&lt;/code&gt; 总结。&amp;lt;font color=&amp;quot;#C0C4CC&amp;quot;&amp;gt;[这里写整理笔记的具体方式，是读那本书笔记，看那个视频笔记，或者对于那个问题的笔记]&lt;/li&gt;
-&lt;li&gt;笔记由两部分内容构成:  &lt;code&gt;笔记类模板&lt;/code&gt; 和 &lt;code&gt;技术点问题类模板&lt;/code&gt;  &amp;lt;font color=&amp;quot;#C0C4CC&amp;quot;&amp;gt;[这里写笔记内容的构成]&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;这里是亚斯特拉格雷，我是一个狂热的游戏爱好者，是一名玩家，也是游戏开发新人。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;我会在我的博客中持续更新我在游戏开发中的进度。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;这里会持续分享我热爱的游戏，和开发中所喜欢的游戏。&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&amp;lt;font color=&amp;quot;009688&amp;quot;&amp;gt; 傍晚时分，你坐在屋檐下，看着天慢慢地黑下去，心里寂寞而凄凉，感到自己的生命被剥夺了。当时我是个年轻人，但我害怕这样生活下去，衰老下去。在我看来，这是比死亡更可怕的事。-------- 王小波 **&amp;lt;/font&amp;gt;[&amp;lt;font color=&amp;quot;#C0C4CC&amp;quot;&amp;gt;[这里写一句鼓励自己的话，可以加一个颜色 (可选)]&amp;lt;/font&amp;gt;&lt;/p&gt;
-&lt;p&gt;&amp;lt;font color=&amp;quot;#C0C4CC&amp;quot;&amp;gt; 博客内容 &amp;lt;/font&amp;gt;&lt;/p&gt;
-&lt;h1 id=&#34;font-colorc0c4cc一级标题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#font-colorc0c4cc一级标题&#34;&gt;#&lt;/a&gt; &amp;lt;font color=&amp;quot;#C0C4CC&amp;quot;&amp;gt; 一级标题&lt;/h1&gt;
-&lt;h2 id=&#34;font-colorc0c4cc二级标题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#font-colorc0c4cc二级标题&#34;&gt;#&lt;/a&gt; &amp;lt;font color=&amp;quot;#C0C4CC&amp;quot;&amp;gt; 二级标题&lt;/h2&gt;
-&lt;h3 id=&#34;font-colorc0c4cc三级标题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#font-colorc0c4cc三级标题&#34;&gt;#&lt;/a&gt; &amp;lt;font color=&amp;quot;#C0C4CC&amp;quot;&amp;gt; 三级标题&lt;/h3&gt;
-&lt;h4 id=&#34;font-colorc0c4cc四级标题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#font-colorc0c4cc四级标题&#34;&gt;#&lt;/a&gt; &amp;lt;font color=&amp;quot;#C0C4CC&amp;quot;&amp;gt; 四级标题&lt;/h4&gt;
-&lt;h5 id=&#34;font-colorc0c4cc五级标题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#font-colorc0c4cc五级标题&#34;&gt;#&lt;/a&gt; &amp;lt;font color=&amp;quot;#C0C4CC&amp;quot;&amp;gt; 五级标题&lt;/h5&gt;
-&lt;h6 id=&#34;font-colorc0c4cc六级标题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#font-colorc0c4cc六级标题&#34;&gt;#&lt;/a&gt; &amp;lt;font color=&amp;quot;#C0C4CC&amp;quot;&amp;gt; 六级标题&lt;/h6&gt;
-&lt;p&gt;&lt;code&gt;内容文字颜色设置&lt;/code&gt; &lt;br /&gt;
- &amp;lt;font color=&amp;quot;#000000&amp;quot;&amp;gt; 具体的正文 &amp;lt;/font&amp;gt;&lt;br /&gt;
-&amp;lt;font color=&amp;quot;#303133&amp;quot;&amp;gt; 具体的正文 &amp;lt;/font&amp;gt;&lt;br /&gt;
-&amp;lt;font color=&amp;quot;#606266&amp;quot;&amp;gt; 具体的正文 &amp;lt;/font&amp;gt;&lt;br /&gt;
-&amp;lt;font color=&amp;quot;#909399&amp;quot;&amp;gt; 具体的正文 &amp;lt;/font&amp;gt;&lt;br /&gt;
-&amp;lt;font color=&amp;quot;#C0C4CC&amp;quot;&amp;gt; 具体的正文 &amp;lt;/font&amp;gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;重点标记性文字设置&lt;/code&gt; &lt;br /&gt;
-&lt;strong&gt; &amp;lt;font color=&amp;quot;#409EFF&amp;quot;&amp;gt; 具体的标记性正文 &amp;lt;/font&amp;gt;&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;&amp;lt;font color=&amp;quot;#67C23A&amp;quot;&amp;gt; 具体的标记性正文 &amp;lt;/font&amp;gt;&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;&amp;lt;font color=&amp;quot;#E6A23C&amp;quot;&amp;gt; 具体的标记性正文 &amp;lt;/font&amp;gt;&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;&amp;lt;font color=&amp;quot;#F56C6C&amp;quot;&amp;gt; 具体的标记性正文 &amp;lt;/font&amp;gt;&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;&amp;lt;font color=&amp;quot;#009688&amp;quot;&amp;gt; 具体的标记性正文 &amp;lt;/font&amp;gt;&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;&amp;lt;font color=&amp;quot;##00C5CD&amp;quot;&amp;gt; 具体的标记性正文 &amp;lt;/font &amp;gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;hr /&gt;
  ]]></description>
         </item>
