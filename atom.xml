@@ -1,18 +1,23 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://example.com</id>
-    <title>AstoraGray</title>
-    <subtitle></subtitle>
+    <title>遥远的理想乡</title>
+    <subtitle>梦是现实的延续，现实是梦的终结</subtitle>
     <icon>http://example.com/images/favicon.ico</icon>
     <link href="http://example.com" />
     <author>
       <name>AstoraGray</name>
     </author>
-    <updated>2022-10-22T15:46:16.000Z</updated>
+    <updated>2022-10-23T03:16:57.000Z</updated>
+    <category term="Unity" />
+    <category term="游戏开发" />
+    <category term="游戏设计" />
+    <category term="黑魂" />
+    <category term="独立游戏" />
     <entry>
-        <id>http://example.com/2022/10/22/My%20new%20post/</id>
-        <title>第一篇博客</title>
-        <link rel="alternate" href="http://example.com/2022/10/22/My%20new%20post/"/>
+        <id>http://example.com/2022/10/23/tests/</id>
+        <title>test</title>
+        <link rel="alternate" href="http://example.com/2022/10/23/tests/"/>
         <content type="html">&lt;h2 id=&#34;自我介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#自我介绍&#34;&gt;#&lt;/a&gt; 自我介绍&lt;/h2&gt;
 &lt;hr /&gt;
 &lt;ul&gt;
@@ -28,7 +33,31 @@
 &lt;/ul&gt;
 &lt;hr /&gt;
 </content>
-        <category term="自我介绍" scheme="http://example.com/tags/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/" />
+        <category term="日常" scheme="http://example.com/categories/daily/" />
+        <category term="自我介绍" scheme="http://example.com/tags/self-introduction/" />
+        <updated>2022-10-23T03:16:57.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://example.com/2022/10/22/daily/self-introduction/</id>
+        <title>自我介绍</title>
+        <link rel="alternate" href="http://example.com/2022/10/22/daily/self-introduction/"/>
+        <content type="html">&lt;h2 id=&#34;自我介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#自我介绍&#34;&gt;#&lt;/a&gt; 自我介绍&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;这里是亚斯特拉格雷，我是一个狂热的游戏爱好者，是一名玩家，也是游戏开发新人。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;我会在我的博客中持续更新我在游戏开发中的进度。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;这里会持续分享我热爱的游戏，和开发中所喜欢的游戏。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+</content>
+        <category term="日常" scheme="http://example.com/categories/daily/" />
+        <category term="自我介绍" scheme="http://example.com/tags/self-introduction/" />
         <updated>2022-10-22T15:46:16.000Z</updated>
     </entry>
 </feed>

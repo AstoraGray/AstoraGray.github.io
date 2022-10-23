@@ -1,18 +1,30 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "AstoraGray",
-    "subtitle": "",
+    "title": "遥远的理想乡",
+    "subtitle": "梦是现实的延续，现实是梦的终结",
     "icon": "http://example.com/images/favicon.ico",
-    "description": "",
+    "description": "欢迎访问owo",
     "home_page_url": "http://example.com",
     "items": [
         {
-            "id": "http://example.com/2022/10/22/My%20new%20post/",
-            "url": "http://example.com/2022/10/22/My%20new%20post/",
-            "title": "第一篇博客",
+            "id": "http://example.com/2022/10/23/tests/",
+            "url": "http://example.com/2022/10/23/tests/",
+            "title": "test",
+            "date_published": "2022-10-23T03:16:57.000Z",
+            "content_html": "<h2 id=\"自我介绍\"><a class=\"anchor\" href=\"#自我介绍\">#</a> 自我介绍</h2>\n<hr />\n<ul>\n<li>\n<p>这里是亚斯特拉格雷，我是一个狂热的游戏爱好者，是一名玩家，也是游戏开发新人。</p>\n</li>\n<li>\n<p>我会在我的博客中持续更新我在游戏开发中的进度。</p>\n</li>\n<li>\n<p>这里会持续分享我热爱的游戏，和开发中所喜欢的游戏。</p>\n</li>\n</ul>\n<hr />\n",
+            "tags": [
+                "日常",
+                "自我介绍"
+            ]
+        },
+        {
+            "id": "http://example.com/2022/10/22/daily/self-introduction/",
+            "url": "http://example.com/2022/10/22/daily/self-introduction/",
+            "title": "自我介绍",
             "date_published": "2022-10-22T15:46:16.000Z",
             "content_html": "<h2 id=\"自我介绍\"><a class=\"anchor\" href=\"#自我介绍\">#</a> 自我介绍</h2>\n<hr />\n<ul>\n<li>\n<p>这里是亚斯特拉格雷，我是一个狂热的游戏爱好者，是一名玩家，也是游戏开发新人。</p>\n</li>\n<li>\n<p>我会在我的博客中持续更新我在游戏开发中的进度。</p>\n</li>\n<li>\n<p>这里会持续分享我热爱的游戏，和开发中所喜欢的游戏。</p>\n</li>\n</ul>\n<hr />\n",
             "tags": [
+                "日常",
                 "自我介绍"
             ]
         }
