@@ -21,8 +21,8 @@
             <guid isPermalink="true">http://example.com/2022/10/23/tests/</guid>
             <title>test</title>
             <link>http://example.com/2022/10/23/tests/</link>
-            <category term="daily" scheme="http://example.com/categories/daily/" />
-            <category term="self-introduction" scheme="http://example.com/tags/self-introduction/" />
+            <category term="日常" scheme="http://example.com/categories/daily/" />
+            <category term="自我介绍" scheme="http://example.com/tags/self-introduction/" />
             <pubDate>Sun, 23 Oct 2022 11:16:57 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;自我介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#自我介绍&#34;&gt;#&lt;/a&gt; 自我介绍&lt;/h2&gt;
 &lt;hr /&gt;
