@@ -10,17 +10,24 @@
         </author>
         <description>欢迎访问owo</description>
         <language>zh-CN</language>
-        <pubDate>Sun, 23 Oct 2022 11:16:57 +0800</pubDate>
-        <lastBuildDate>Sun, 23 Oct 2022 11:16:57 +0800</lastBuildDate>
+        <pubDate>Mon, 24 Oct 2022 10:07:57 +0800</pubDate>
+        <lastBuildDate>Mon, 24 Oct 2022 10:07:57 +0800</lastBuildDate>
         <category term="Unity" />
         <category term="游戏开发" />
         <category term="游戏设计" />
         <category term="黑魂" />
         <category term="独立游戏" />
         <item>
-            <guid isPermalink="true">http://example.com/2022/10/23/daily/firstArticle/</guid>
+            <guid isPermalink="true">http://example.com/2022/10/24/test/</guid>
+            <title>test</title>
+            <link>http://example.com/2022/10/24/test/</link>
+            <pubDate>Mon, 24 Oct 2022 10:07:57 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2022/10/23/firstArticle/</guid>
             <title>第一篇文章</title>
-            <link>http://example.com/2022/10/23/daily/firstArticle/</link>
+            <link>http://example.com/2022/10/23/firstArticle/</link>
             <category term="日常" scheme="http://example.com/categories/daily/" />
             <category term="自我介绍" scheme="http://example.com/tags/self-introduction/" />
             <pubDate>Sun, 23 Oct 2022 11:16:57 +0800</pubDate>

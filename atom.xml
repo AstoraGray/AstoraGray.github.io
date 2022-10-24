@@ -8,16 +8,23 @@
     <author>
       <name>AstoraGray</name>
     </author>
-    <updated>2022-10-23T03:16:57.000Z</updated>
+    <updated>2022-10-24T02:07:57.000Z</updated>
     <category term="Unity" />
     <category term="游戏开发" />
     <category term="游戏设计" />
     <category term="黑魂" />
     <category term="独立游戏" />
     <entry>
-        <id>http://example.com/2022/10/23/daily/firstArticle/</id>
+        <id>http://example.com/2022/10/24/test/</id>
+        <title>test</title>
+        <link rel="alternate" href="http://example.com/2022/10/24/test/"/>
+        <content type="html"></content>
+        <updated>2022-10-24T02:07:57.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://example.com/2022/10/23/firstArticle/</id>
         <title>第一篇文章</title>
-        <link rel="alternate" href="http://example.com/2022/10/23/daily/firstArticle/"/>
+        <link rel="alternate" href="http://example.com/2022/10/23/firstArticle/"/>
         <content type="html">&lt;h2 id=&#34;自我介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#自我介绍&#34;&gt;#&lt;/a&gt; 自我介绍&lt;/h2&gt;
 &lt;hr /&gt;
 &lt;ul&gt;
