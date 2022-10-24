@@ -18,16 +18,19 @@
         <category term="黑魂" />
         <category term="独立游戏" />
         <item>
-            <guid isPermalink="true">http://example.com/2022/10/24/test/</guid>
-            <title>test</title>
-            <link>http://example.com/2022/10/24/test/</link>
+            <guid isPermalink="true">http://example.com/2022/10/24/daily/test/</guid>
+            <title>Test</title>
+            <link>http://example.com/2022/10/24/daily/test/</link>
+            <category term="日常" scheme="http://example.com/categories/daily/" />
+            <category term="自我介绍" scheme="http://example.com/tags/self-introduction/" />
             <pubDate>Mon, 24 Oct 2022 10:07:57 +0800</pubDate>
-            <description><![CDATA[  ]]></description>
+            <description><![CDATA[ &lt;p&gt;123123123123&lt;/p&gt;
+ ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2022/10/23/firstArticle/</guid>
+            <guid isPermalink="true">http://example.com/2022/10/23/daily/firstArticle/</guid>
             <title>第一篇文章</title>
-            <link>http://example.com/2022/10/23/firstArticle/</link>
+            <link>http://example.com/2022/10/23/daily/firstArticle/</link>
             <category term="日常" scheme="http://example.com/categories/daily/" />
             <category term="自我介绍" scheme="http://example.com/tags/self-introduction/" />
             <pubDate>Sun, 23 Oct 2022 11:16:57 +0800</pubDate>
