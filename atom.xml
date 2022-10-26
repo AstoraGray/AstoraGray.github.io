@@ -18,10 +18,17 @@
         <id>http://example.com/2022/10/24/daily/test/</id>
         <title>Test</title>
         <link rel="alternate" href="http://example.com/2022/10/24/daily/test/"/>
-        <content type="html">&lt;p&gt;123123123123&lt;/p&gt;
+        <content type="html">&lt;ul&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;测试博客&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#测试博客&#34;&gt;#&lt;/a&gt; &lt;strong&gt;测试博客&lt;/strong&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;测试置顶文章显示&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#测试置顶文章显示&#34;&gt;#&lt;/a&gt; &lt;strong&gt;测试置顶文章显示&lt;/strong&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </content>
         <category term="日常" scheme="http://example.com/categories/daily/" />
-        <category term="自我介绍" scheme="http://example.com/tags/self-introduction/" />
+        <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/" />
         <updated>2022-10-24T02:07:57.000Z</updated>
     </entry>
     <entry>
