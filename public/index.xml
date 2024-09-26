@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gray Core</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Gray Core</description>
+    <generator>Hugo</generator>
+    <language>cn</language>
+    <lastBuildDate>Thu, 26 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GRAY CORE</title>
+      <link>http://localhost:1313/posts/garycore/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/garycore/</guid>
+      <description>&lt;p&gt;欢迎来到GRAY CORE，这里是我的幻想世界。我是AstoraGray、一个独立游戏开发者，梦想着能够开发出一个游戏能够模拟真实的世界，比较喜欢核类元素，之后会在此博客分享一些我自己的技术经验、游戏经验，当然也有一些比较神金的大病内容在此啦，嘿嘿。不论如何，我会坚持更新此博客来证明我的存在，并且将自己学到的技术分享出来，如果你对我的文章有什么意见，请私信联系我，也可以在下面留言哦owo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
