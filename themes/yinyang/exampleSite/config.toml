@@ -1,0 +1,45 @@
+baseURL = "https://AstoraGray.github.io/"
+languageCode = "en-us"
+title = "Gray Core"
+theme = "yinyang"
+DefaultContentLanguage = "cn"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    guessSyntax = true
+    noClasses = true
+    style = "bw"
+    tabWidth = 2
+
+[author]
+  name = "AstoraGray"
+  homepage = "https://AstoraGray.github.io/"
+
+[languages]
+  [languages.en]
+    contentDir = "content/en"
+    languageName = "English"
+    weight = 1
+  [languages.cn]
+    contentDir = "content/cn"
+    languageName = "Chinese"
+    weight = 2
+
+[params]
+mainSections = ["posts"]
+headTitle = "Gray Core"
+disqus = "joway" # disqus account name
+extraHead = '<script async src="https://www.googletagmanager.com/gtag/js?id=UA-xxx"></script>'
+[[params.socials]]
+name = "About Me"
+link = "bento.me/astoragray"
+[[params.socials]]
+name = "Github"
+link = "https://github.com/AstoraGray"
+postHeaderContent = ""
+postFooterContent = "<br/><br/><p>Subscribe to：<a target='_blank' href='https://space.bilibili.com/165762441'>Gray Core</a></p>"
+# extraCSSFiles = ["css/foo.css", "css/bar.css"]
+extraCSSFiles = []
