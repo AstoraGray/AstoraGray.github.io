@@ -6,10 +6,10 @@ draft: false
 ---
 
 ```C#
-private float GetYourValue(float learnDay, float talent) => Math.Clamp(curValue * (1 + learnDay / 100) * talent,talent,talent * 10000);
 // 个人这方面的价值 = 当前价值 * 付出的时间（百分天） * 天赋 ， 但不会超过天赋 * 10000，也就是上限
-private float GetInvestValue(float timeDay, float moneyRmb) => timeDay * GetYourValue(learnDay,talent) + moneyRmb;
+private float GetYourValue(float learnDay, float talent) => Math.Clamp(curValue * (1 + learnDay / 100) * talent,talent,talent * 10000);
 // 投资买单获取的价值 = 付出的时间（天数） * 自身对于这个方向的价值 + 金钱（Rmb）
+private float GetInvestValue(float timeDay, float moneyRmb) => timeDay * GetYourValue(learnDay,talent) + moneyRmb;
 ```
 
 ​	在这个世界活的越久，越是能感受到这个世界像一个游戏。在写这篇文章的时候我已经在这颗蓝星生活了8702天了，在国庆节出去放空大脑后，今天突然想到所谓的投资，并不能局限在金钱方面，如果上升到为人生买单的层面则会变的很有意思。

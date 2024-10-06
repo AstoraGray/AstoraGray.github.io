@@ -6,10 +6,10 @@ draft: false
 ---
 
 ```C#
-private float GetYourValue(float learnDay, float talent) => Math.Clamp(curValue * (1 + learnDay / 100) * talent, talent, talent * 10000);
 // The personal value in this aspect = current value * time invested (in percentage of days) * talent, but will not exceed talent * 10000, which is the upper limit
-private float GetInvestValue(float timeDay, float moneyRmb) => timeDay * GetYourValue(learnDay, talent) + moneyRmb;
+private float GetYourValue(float learnDay, float talent) => Math.Clamp(curValue * (1 + learnDay / 100) * talent, talent, talent * 10000);
 // The value obtained from the investment = time spent (in days) * personal value in this direction + money (Rmb)
+private float GetInvestValue(float timeDay, float moneyRmb) => timeDay * GetYourValue(learnDay, talent) + moneyRmb;
 ```
 
 As I live longer in this world, I increasingly feel that this world is like a game. While writing this article, I have already lived on this blue planet for 8702 days. After going out to clear my mind during the National Day holiday, I suddenly thought that the so-called investment should not be limited to financial aspects. If we elevate it to the level of paying for life, it becomes very interesting.
