@@ -23,3 +23,8 @@ It is not difficult to see from the formula that the best way to enhance the fin
 In gaming terms, this means leveling up my attributes, teaming up with friends to tackle challenges, and understanding strategies before embarking on an adventure. Once everything is prepared, I can complete the challenge with minimal time and resources while achieving a high score. Thus, time is interconnected with all things; fundamental principles apply across different dimensions. Investing in life is a meaningful endeavor. Being still young, I will practice this formula by prioritizing the enhancement of my own value, aiming to excel in this so-called Earth Online.
 
 Today, I wrote about a rather unique topic. It may seem that I am not quite normal, but I enjoy viewing life as a game. After all, it is possible that our world is simulated, which presents a paradox. Until we can simulate a world, we can never definitively conclude whether our world is virtual. Therefore, I choose to believe.
+
+<audio controls autoplay>
+  <source src="/audios/Sweden_3.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>

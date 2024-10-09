@@ -11,3 +11,7 @@ draft: false
 
 ​	得益于Github.io，我能够将我之所想存下来，不会因为被攻击而关闭，不会因为欠费而停运，他将永远存在，在未来几十年甚至几百年，即使我已然成为灰烬，但这篇文章还是存在的不是吗？它已经跨越了时间的维度。
 
+<audio controls autoplay>
+  <source src="/audios/Sweden_2.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>

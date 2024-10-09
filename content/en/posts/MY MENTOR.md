@@ -13,3 +13,7 @@ draft: false
 
 Thanks to Github.io, I can preserve my thoughts without fear of being attacked or shut down due to unpaid fees. It will exist forever, in the coming decades or even centuries. Even if I have turned to ashes, this article will still exist, right? It has transcended the dimensions of time.
 
+<audio controls autoplay>
+  <source src="/audios/Sweden_2.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
