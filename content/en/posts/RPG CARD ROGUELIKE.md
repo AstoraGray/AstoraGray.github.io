@@ -1,7 +1,7 @@
 ---
-title: RPG&CARD&ROGUELIKE
+title: RPG CARD ROGUELIKE
 date: 2024-10-14
-categories: ['CORE']
+categories: ['OUTER CORE']
 draft: false
 ---
 
