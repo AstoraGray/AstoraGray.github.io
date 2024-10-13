@@ -32,7 +32,7 @@ DefaultContentLanguage = "cn"
 mainSections = ["posts"]
 headTitle = "Gray Core"
 disqus = "joway" # disqus account name
-timezone = "Asia/Shanghai" # 根据你的需要设置合适的时区
+timeZone = "Asia/Shanghai" # 根据你的需要设置合适的时区
 extraHead = '<script async src="https://www.googletagmanager.com/gtag/js?id=UA-xxx"></script>'
 [[params.socials]]
 name = "About Me"
