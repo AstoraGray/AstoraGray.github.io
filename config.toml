@@ -32,6 +32,7 @@ DefaultContentLanguage = "cn"
 mainSections = ["posts"]
 headTitle = "Gray Core"
 disqus = "joway" # disqus account name
+timezone = "Asia/Shanghai" # 根据你的需要设置合适的时区
 extraHead = '<script async src="https://www.googletagmanager.com/gtag/js?id=UA-xxx"></script>'
 [[params.socials]]
 name = "About Me"
@@ -41,5 +42,6 @@ name = "Github"
 link = "https://github.com/AstoraGray"
 postHeaderContent = ""
 postFooterContent = "<br/><br/><p>Subscribe to：<a target='_blank' href='https://space.bilibili.com/165762441'>Gray Core</a></p>"
+
 # extraCSSFiles = ["css/foo.css", "css/bar.css"]
 extraCSSFiles = []
