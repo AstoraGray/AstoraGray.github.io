@@ -1,6 +1,6 @@
 ---
 title: RPG&CARD&ROGUELIKE
-date: 2024-10-14
+date: 2024-10-13
 categories: ['OUTER CORE']
 draft: false
 ---
