@@ -22,6 +22,7 @@ draft: false
 ​	展开就是这么多啦，目前已经把游戏中的基本机制给讲完了，反正就是这么个游戏，我也是挺想做的，所以就先写到这里，剩下的交给未来！
 
 <audio controls autoplay>
-  <source src="/audios/未来古代楽団 - 空白の書.mp3.mp3" type="audio/mpeg">
+  <source src="/audios/未来古代楽団 - 空白の書.mp3" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
+

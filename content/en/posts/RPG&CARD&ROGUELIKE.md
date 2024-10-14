@@ -22,6 +22,6 @@ The game includes a unique mechanic called "limb destruction,” which affects b
 That's about it! I have covered the basic mechanics of the game. This is the game I am quite eager to create, so I’ll stop here for now, leaving the rest to the future!
 
 <audio controls autoplay>
-  <source src="/audios/未来古代楽団 - 空白の書.mp3.mp3" type="audio/mpeg">
+  <source src="/audios/未来古代楽団 - 空白の書.mp3" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
