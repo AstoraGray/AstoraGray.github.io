@@ -7,7 +7,7 @@ draft: false
 
 ​	**"LIMB KNIGHT"** is a challenging strategy card game. This article will continue from the previous one, providing detailed supplements and explanations about the game's setting. Therefore, it will not exceed the length of the previous article and is intended for those interested in this piece. If you haven't read the previous article, you may want to check out my "LIMB KNIGHT" from October 18, 2024.
 
-![Dungeon](https://drive.google.com/uc?export=view&id=12h7Gmuc5T4tAy-rqHrX19VCpdUmVhnTX)
+![Dungeon](/images/LIMB KIGHT 2 - Dungeon.png)
 
 Regarding the **"Concentration"** mechanism, represented by a small circle, its most basic use has already been described in the previous article. You can drag it onto yourself or an enemy, and it radiates outward from the center of the circle. For yourself, it increases the evasion rate and damage reduction for your character and surrounding areas. When dragged onto an enemy, it enhances the damage dealt and critical hit rate to that enemy and nearby areas. This basic use is akin to a passive ability. Similar to "Angra Mainyu" in "OVER LORD," **"Concentration"** is not that simple. In the dungeon, you can use **"Concentration"** to drag the circle around to achieve **"danger avoidance."** For example, dragging the circle to the ground increases your chances of avoiding traps, while dragging it into shadows enhances your chances of detecting enemy ambushes. Placing the circle on a chest makes it easier to discover hidden treasures.
 
