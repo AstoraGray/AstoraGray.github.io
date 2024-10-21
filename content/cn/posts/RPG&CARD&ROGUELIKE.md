@@ -25,4 +25,3 @@ draft: false
   <source src="/audios/未来古代楽団 - 空白の書.mp3" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
-
