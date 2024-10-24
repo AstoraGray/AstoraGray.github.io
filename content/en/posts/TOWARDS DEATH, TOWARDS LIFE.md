@@ -18,6 +18,7 @@ Day 5: Developing an indie game takes a lot of time. Maybe I should just give up
 ​	Right now, I am being overly rational, which makes me feel extremely repressed. What I truly crave is a sense of madness. My answer is to seek change. I will center my plans around ensuring Limb Knight progresses smoothly. The fact that this idea found me before I went to sleep is an opportunity, and writing it down as an article is fate; it is destined to remain indelible in my mind. Afterwards, I will challenge the triad of work, study, and indie game development. I want all these plans, at least until I exhaust myself. This is the idealist's struggle and rebellion against reality.
 
 <audio controls autoplay>
-  <source src="/audios/небо над головой - Я хотел быть космонавтом" type="audio/mpeg">
+  <source src="/audios/небо над головой - Я хотел быть космонавтом.mp3" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
+
