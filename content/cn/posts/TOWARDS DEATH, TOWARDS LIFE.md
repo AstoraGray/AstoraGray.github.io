@@ -1,5 +1,5 @@
 ---
-title: BEING TOWARDS DEATH
+title: TOWARDS DEATH, TOWARDS LIFE
 date: 2024-10-24
 categories: ['CORE']
 draft: false
@@ -19,4 +19,3 @@ draft: false
   <source src="/audios/небо над головой - Я хотел быть космонавтом.mp3" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
-
