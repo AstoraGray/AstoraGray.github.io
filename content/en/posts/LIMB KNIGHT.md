@@ -1,7 +1,7 @@
 ---
 title: LIMB KNIGHT
 date: 2024-10-18
-categories: ['OUTER CORE']
+categories: ['OUTERCORE']
 draft: false
 ---
 
