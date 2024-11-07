@@ -1,6 +1,6 @@
 ---
 title: HOLLOW
-date: 2024-11-7
+date: 2024-11-07
 categories: ['CORE']
 draft: false
 ---
