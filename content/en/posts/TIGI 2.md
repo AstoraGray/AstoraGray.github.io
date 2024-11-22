@@ -5,7 +5,7 @@ categories: ['OUTERCORE']
 draft: false
 ---
 
-​	<img src="/images/Hieronymus bosch garden.png" alt="garden" class="img-responsive">
+​	<img src="/images/Hieronymus bosch garden.jpg" alt="garden" class="img-responsive">
 
 ​	The supreme will determined the existence of the world, which was divided into Eden, the human realm, and hell. The supreme will created a chess game called TIGI, which became the highest stake. In the near future, the first war in the world broke out in Eden, a battle between gods. Eventually, two ancient gods survived the conflict, locked in a stalemate. They decided to determine the winner through TIGI. In the end, one god gained control of the human realm and became God, while the other was expelled to hell and became the Devil. The Devil's TIGI was far inferior to that of God, but he prophesied that one day a human would defeat God with astonishing chess skills. Thus, the Devil and God made a wager: if God lost, the Devil would take control of the human realm, and God would be cast into hell.
 

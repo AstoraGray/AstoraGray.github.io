@@ -5,7 +5,7 @@ categories: ['OUTERCORE']
 draft: false
 ---
 
-​	<img src="/images/Hieronymus bosch garden.png" alt="garden" class="img-responsive">
+​	<img src="/images/Hieronymus bosch garden.jpg" alt="garden" class="img-responsive">
 
 ​	无上意志决定了世界的存在，世界分为了伊甸、人间、地狱。无上意志创造出了一个名为TIGI的棋类游戏，这是最高的筹码。不久的将来，世界上第一次战争发生在了伊甸，神明之间的战斗，最后上古诸神中有两个神活了下来，他们打的难解难分，最后决定通过TIGI来决定胜负，最终一个神掌控了人间成为了上帝，而另一个神则被驱逐到了地狱成为了魔鬼。魔鬼的TIGI下的远不如上帝，但魔鬼预言终有一日会有一个人类会以惊人的棋技来击败上帝，于是魔鬼和上帝打了这个赌，如果上帝输了，则让魔鬼来掌控人间，上帝被驱逐到地狱。
 
