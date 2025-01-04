@@ -1,6 +1,6 @@
 ---
 title: BREAK AN OATH
-date: 2025-1-4
+date: 2025-01-04
 categories: ['CORE']
 draft: false
 ---

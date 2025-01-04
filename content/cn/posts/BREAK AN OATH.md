@@ -1,6 +1,6 @@
 ---
 title: BREAK AN OATH
-date: 2025-1-4
+date: 2025-01-04
 categories: ['CORE']
 draft: false
 ---
@@ -25,4 +25,3 @@ draft: false
   <source src="/audios/boys own.mp3" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
-
