@@ -25,7 +25,7 @@ DefaultContentLanguage = "cn"
     weight = 1
   [languages.cn]
     contentDir = "content/cn"
-    languageName = "Chinese"
+    languageName = "Blog"
     weight = 2
 
 [params]
