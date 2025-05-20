@@ -20,8 +20,8 @@ DefaultContentLanguage = "cn"
 
 [languages]
   [languages.en]
-    contentDir = "content/en"
-    languageName = "English"
+    contentDir = "content/tetyou"
+    languageName = "手帳"
     weight = 1
   [languages.cn]
     contentDir = "content/cn"
